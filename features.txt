@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-feature 2
-=======
 feature 2
 test-feature
->>>>>>> f05191d (Added changes (#7))
