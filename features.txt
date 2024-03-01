@@ -1,2 +1,5 @@
 feature 2
 test-feature
+test 1
+test 2
+test 3
