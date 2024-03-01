@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Feature 1
 feature 2
-=======
-feature 2
-Feature 1
->>>>>>> b749d61 (resolved conflicts)
